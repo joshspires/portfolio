@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joshspires.com.au/static/css/main.17894304.css",
+    "main.js": "/joshspires.com.au/static/js/main.baec56cb.js",
+    "index.html": "/joshspires.com.au/index.html",
+    "main.17894304.css.map": "/joshspires.com.au/static/css/main.17894304.css.map",
+    "main.baec56cb.js.map": "/joshspires.com.au/static/js/main.baec56cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17894304.css",
+    "static/js/main.baec56cb.js"
+  ]
+}
